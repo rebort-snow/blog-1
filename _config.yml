@@ -3,14 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Fomalhaut🥝
-subtitle: 
-description: 'Future is now 🍭🍭🍭'
-keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,Fomalhaut🥝,Fomalhaut'
-author: Fomalhaut🥝
+title: 'Relife'
+subtitle: '记录时间'
+description: '逝者如斯夫'
+keywords: '2'
+author: nidhogg-110
 language: zh-CN
 timezone: ''
-
 # abbrlink config
 abbrlink:
   alg: crc32      #support crc16(default) and crc32
